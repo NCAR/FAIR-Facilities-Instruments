@@ -48,7 +48,7 @@ scientific publication. The Core Marketplace has listings from 225 institutions,
 
 ### Kevin Knudtson
 
-Kevin is tbe current President of the Association of Biomolecular Resource Facilities (ABRF). ABRF is the leading membership organization of members working within or in support of resource and research biotechnology laboratories. Kevin is a member of the ABRF Core Facilities Rigor and Reproducibility Committee whose goal is to improve transparency of research through the use of PIDs.
+Kevin is the current President of the Association of Biomolecular Resource Facilities (ABRF). ABRF is the leading membership organization of members working within or in support of resource and research biotechnology laboratories. Kevin is a member of the ABRF Core Facilities Rigor and Reproducibility Committee whose goal is to improve transparency of research through the use of PIDs.
 
 ### Giri Prakash
 
@@ -61,3 +61,5 @@ Shelley and Brooks are from the American Geophysical Union (AGU). Shelley is the
 ## [Project Award Information](#project-award-information)
 
 [NSF Award 2226396](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226396&HistoricalAwards=false)
+[NSF Award 2226397](https://nsf.gov/awardsearch/showAward?AWD_ID=2226397&HistoricalAwards=false)
+[NSF Award 2226398](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226398&HistoricalAwards=false) 
