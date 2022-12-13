@@ -60,6 +60,6 @@ Shelley and Brooks are from the American Geophysical Union (AGU). Shelley is the
 
 ## [Project Award Information](#project-award-information)
 
-[NSF Award 2226396](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226396&HistoricalAwards=false)
-[NSF Award 2226397](https://nsf.gov/awardsearch/showAward?AWD_ID=2226397&HistoricalAwards=false)
+[NSF Award 2226396](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226396&HistoricalAwards=false)\
+[NSF Award 2226397](https://nsf.gov/awardsearch/showAward?AWD_ID=2226397&HistoricalAwards=false)\
 [NSF Award 2226398](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226398&HistoricalAwards=false) 
