@@ -43,8 +43,8 @@ Danielle and Dylan are from from Ithaka S+R, a not-for-profit research organizat
 
 ### Nate Herzog
 
-Nate is the CoreMarketPlace project lead at Vermont Genetics Network. The CoreMarketplace (CM) is a searchable listing of active core facilities. The purpose of the Core Marketplace is to provide this directory of research facilities to the scientific community. It also furthers research by highlighting citable resources within a listing for
-scientific publication. The Core Marketplace has listings from 225 institutions, 863 active facilities from 11 countries.
+Nate is the CoreMarketplace project lead at the Vermont Biomedical Research Network (VBRN). The CoreMarketplace (CM) is a searchable listing of active core facilities. Its purpose is to provide this directory of research facilities to the scientific community. It also furthers research by highlighting citable resources within a listing for
+scientific publication. It serves over 225 institutions, and lists over 1000 active research facilities. 
 
 ### Kevin Knudtson
 
