@@ -39,7 +39,7 @@ Matthew Buys is the Executive Director of DataCite, an international organizatio
 
 ### Danielle Cooper and Dylan Ruediger
 
-Danielle and Dylan are from from Ithaka S+R, a not-for-profit research organization that specializes in leveraging cross-sector engagement with academic administration and leadership, scholarly communications, scholarly societies, libraries, and information technology services. Danielle is Associate Director, and Dylan is Senior Analyst; they are both experts on maximizing opportunities for researcher sharing to advance FAIR and open science principles, for example, in a current NSF-funded project on Leveraging Data Communities to Advance Open Science.
+Danielle and Dylan are from from Ithaka S+R, a not-for-profit research organization that specializes in leveraging cross-sector engagement with academic administration and leadership, scholarly communications, scholarly societies, libraries, and information technology services. Danielle is Director, Libraries, Scholarly Communication and Museums; Dylan is Program Manager, Research Enterprise. They are both experts on maximizing opportunities for researcher sharing to advance FAIR and open science principles, for example, in a current NSF-funded project on Leveraging Data Communities to Advance Open Science.
 
 ### Nate Herzog
 
