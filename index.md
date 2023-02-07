@@ -11,6 +11,7 @@ In-Progress
 * [Workshop Information and Outputs](#workshop-information-and-outputs)
 * [Advisory Committee](#advisory-committee)
 * [Project Award Information](#project-award-information)
+* [Presentations](#project-presentations)
 
 
 ## [Project Description](#project-description)
@@ -64,7 +65,7 @@ Shelley and Brooks are from the American Geophysical Union (AGU). Shelley is the
 [NSF Award 2226397](https://nsf.gov/awardsearch/showAward?AWD_ID=2226397&HistoricalAwards=false)\
 [NSF Award 2226398](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226398&HistoricalAwards=false) 
 
-## Project Presentations
+## [Project Presentations](#project-presentations)
 
 * [December 2022 Project Presentation](presentations/dec22_presentation.pdf) 
 
