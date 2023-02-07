@@ -9,9 +9,9 @@ In-Progress
 ## Navigate to:
 * [Project Description](#project-description)
 * [Workshop Information and Outputs](#workshop-information-and-outputs)
+* [Project Presentations](#project-presentations)
 * [Advisory Committee](#advisory-committee)
 * [Project Award Information](#project-award-information)
-* [Presentations](#project-presentations)
 
 
 ## [Project Description](#project-description)
@@ -23,6 +23,10 @@ While persistent identifiers are already being assigned to facilities and resear
 ## [Workshop Information and Outputs](#workshop-information-and-outputs)
 
 Coming Soon
+
+## [Project Presentations](#project-presentations)
+
+* [December 2022 Project Presentation](presentations/dec22_presentation.pdf) 
 
 ## [Advisory Committee](#advisory-committee)
 
@@ -65,8 +69,6 @@ Shelley and Brooks are from the American Geophysical Union (AGU). Shelley is the
 [NSF Award 2226397](https://nsf.gov/awardsearch/showAward?AWD_ID=2226397&HistoricalAwards=false)\
 [NSF Award 2226398](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226398&HistoricalAwards=false) 
 
-## [Project Presentations](#project-presentations)
 
-* [December 2022 Project Presentation](presentations/dec22_presentation.pdf) 
 
 
