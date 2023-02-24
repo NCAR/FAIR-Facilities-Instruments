@@ -10,6 +10,7 @@ In-Progress
 * [Project Description](#project-description)
 * [Workshop Information and Outputs](#workshop-information-and-outputs)
 * [Project Presentations](#project-presentations)
+* [Project Investigators](#project-investigators)
 * [Advisory Committee](#advisory-committee)
 * [Project Award Information](#project-award-information)
 
@@ -27,6 +28,32 @@ Coming Soon
 ## [Project Presentations](#project-presentations)
 
 * [December 2022 Project Presentation](presentations/dec22_presentation.pdf) 
+
+## [Project Investigators](#project-investigators)
+
+### Andrew Johnson
+
+Andrew Johnson is Associate Professor and Lead for Data and Scholarly Communication Services in the Center for Research Data and Digital Scholarship at the University of Colorado Boulder Libraries. His work includes research data management and curation efforts, open access publishing initiatives, and overall strategy for the CU Scholar open access repository. Johnson’s research interests focus on emerging services and infrastructure for research data management and curation, open access publishing, and open science, particularly with regard to interdisciplinary and highly collaborative research.
+
+### Renaine Julian
+
+Renaine Julian is the head STEM librarian at Florida State University Libraries. In this role he collaborates with and oversees a team of science librarians that provide research and learning support to STEM faculty by delivering innovative and impactful library services. Renaine has a masters in science in Urban and Regional Planning, a masters in library information studies and a BS in political science from Florida State University. Renaine’s research interests include scientific communication, open science, and academic library administration. 
+
+### Matt Mayernik
+
+Matt Mayernik is a Project Scientist and Research Data Services Specialist in the NCAR/UCAR Library. He is also the Deputy Director of the NCAR Library. His work is focused on research and service development related to research data curation and digital scholarship generally. He is also the Joint Editor-in-Chief of the Data Science Journal.
+
+### Claudius Mundoma
+
+Claudius Mundoma is the Director of Shared Instrumentation Facilities in the Office of Vice Provost and Dean of Research at Stanford University. He leads the strategy implementation and evaluation of the Shared Research Platforms initiative as well as oversees planning of future activities that elevate Stanford's shared facilities to the next level. Among many core duties, he collaborates with shared facilities leadership to address strategic and operational issues that impact the community, and supports development of new services to advance Stanford’s research and education missions. Before coming to Stanford, he led the Core Facilities and Shared Instrumentation team as the inaugural Director in the Research and Innovation at the University of Colorado Boulder. Before that, he directed the Physical Biochemistry Facility in the Institute of Molecular Biophysics at Florida State University for nearly two decades.
+
+### Aditya Ranganath
+
+Aditya Ranganath is a data librarian at the Center for Research Data and Digital Scholarship (CRDDS) at the University of Colorado Boulder Libraries, where he collaborates with members of the CU community on data-intensive tasks that span the research data lifecycle. 
+
+### Greg Stossmeister
+
+Greg Stossmeister is the Manager of the Data Management & Services Facility at the NCAR Earth Observing Laboratory (EOL). His work is focused on providing real-time data support to scientific field campaigns through the EOL Field Catalog and providing advanced data services and archival and access to field campaign datasets through the EOL Field Data Archive. 
 
 ## [Advisory Committee](#advisory-committee)
 
