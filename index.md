@@ -4,12 +4,15 @@ layout: default
 
 ## Project Outputs
 
-In-Progress
+***Presentations***
+
+* Mayernik, Matthew. 2022. "Fair Facilities and Instruments."
+  * [Slide deck](presentations/dec22_presentation.pdf)
+* Julian, Renaine. 2023. "Increasing the Discoverability and Traceability of Research Facilities and Instruments through Persistent Identifiers."
 
 ## Navigate to:
 * [Project Description](#project-description)
 * [Workshop Information and Outputs](#workshop-information-and-outputs)
-* [Project Presentations](#project-presentations)
 * [Project Investigators](#project-investigators)
 * [Advisory Committee](#advisory-committee)
 * [Project Award Information](#project-award-information)
@@ -24,10 +27,6 @@ While persistent identifiers are already being assigned to facilities and resear
 ## [Workshop Information and Outputs](#workshop-information-and-outputs)
 
 Coming Soon
-
-## [Project Presentations](#project-presentations)
-
-* [December 2022 Project Presentation](presentations/dec22_presentation.pdf) 
 
 ## [Project Investigators](#project-investigators)
 
