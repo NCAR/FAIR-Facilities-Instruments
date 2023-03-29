@@ -6,9 +6,9 @@ layout: default
 
 ***Presentations***
 
-* Mayernik, Matthew. 2022. "Fair Facilities and Instruments."
+* Mayernik, Matthew. "Fair Facilities and Instruments." Presentation, FAIROS RCN Inaugural Cohort Monthly Call, December 16, 2022. 
   * [Slide deck](presentations/dec22_presentation.pdf)
-* Julian, Renaine. 2023. "Increasing the Discoverability and Traceability of Research Facilities and Instruments through Persistent Identifiers."
+* Julian, Renaine. "Increasing the Discoverability and Traceability of Research Facilities and Instruments through Persistent Identifiers." Presentation, National Science Foundation Office of Legislative and Public Affairs visit to Florida State University in Tallahassee, Florida, February 24, 2023. 
 
 ## Navigate to:
 * [Project Description](#project-description)
