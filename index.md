@@ -16,6 +16,7 @@ layout: default
 * [Project Investigators](#project-investigators)
 * [Advisory Committee](#advisory-committee)
 * [Project Award Information](#project-award-information)
+* [Relevant Resources](./relevant-resources.html) 
 
 
 ## [Project Description](#project-description)
@@ -85,9 +86,15 @@ Kevin is the current President of the Association of Biomolecular Resource Facil
 
 Giri is the Section Head of the Earth System Informatics and Data Discovery section at Oak Ridge National Laboratory. He is responsible for overseeing data center groups that manage the earth and environmental data centers.
 
-### Shelley Stall and Brooks Hanson
+### Shelley Stall
 
-Shelley and Brooks are from the American Geophysical Union (AGU). Shelley is the Sr. Director for Data Leadership for AGU, and Brooks Hanson is the Executive Vice President for Science at AGU. Both Shelley and Brooks have been leaders in the Earth science publishing industry, and have been community organizers for data repositories and publishers to develop community conventions for the use of PIDs in scientific publications (Stall et al, 2019).
+Shelley is the Sr. Director for Data Leadership for the American Geophysical Union (AGU).  Shelley is a leader in the Earth science publishing industry, serving as a community organizer for data repositories and publishers to develop community conventions for the use of PIDs in scientific publications (Stall et al, 2019).
+
+### Shawna Sadler
+
+Shawna leads the Outreach & Partnerships work at ORCID. In this role, she builds strategic relationships worldwide and explores new opportunities for adoption and growth. Previously, Shawna was ORCID’s Engagement Manager for the Americas continuing the adoption and integration of ORCID in North, Central and South America and the Caribbean. 
+
+### Zach Chandler
 
 ## [Project Award Information](#project-award-information)
 
