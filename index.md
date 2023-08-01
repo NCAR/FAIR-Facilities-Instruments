@@ -9,6 +9,9 @@ layout: default
 * Mayernik, Matthew. "Fair Facilities and Instruments." Presentation, FAIROS RCN Inaugural Cohort Monthly Call, December 16, 2022. 
   * [Slide deck](presentations/dec22_presentation.pdf)
 * Julian, Renaine. "Increasing the Discoverability and Traceability of Research Facilities and Instruments through Persistent Identifiers." Presentation, National Science Foundation Office of Legislative and Public Affairs visit to Florida State University in Tallahassee, Florida, February 24, 2023. 
+* FAIR Facilities and Instruments: Standardization and Adoption of Persistent Identifiers (PIDs) for Research Facilities and Instruments (Poster Presentation at Association for Biomolecular Resource Facilities)
+  * [Landing Page](https://diginole.lib.fsu.edu/islandora/object/fsu:856946)
+  * [Poster](presentations/poster1.pdf)
 
 ## Navigate to:
 * [Project Description](#project-description)
