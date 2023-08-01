@@ -27,7 +27,7 @@ While persistent identifiers are already being assigned to facilities and resear
 
 ## [Workshop Information and Outputs](#workshop-information-and-outputs)
 
-Coming Soon
+* [Fall 2023 Workshop at the University of Colorado Boulder](https://docs.google.com/document/d/1jbFLpNDO0Qd-elS0D67IZfu5sDCkQ7X4iPqUcuJ0hog/edit) 
 
 ## [Project Investigators](#project-investigators)
 
