@@ -2,7 +2,27 @@
 layout: default
 ---
 
-## Project Outputs
+## Navigate to:
+* [Workshop Information and Outputs](#workshop-information-and-outputs)
+* [Project Description](#project-description)
+* [Project Outputs](#project-outputs)
+* [Project Investigators](#project-investigators)
+* [Advisory Committee](#advisory-committee)
+* [Project Award Information](#project-award-information)
+* [Relevant Resources](./relevant-resources.html) 
+
+
+## [Workshop Information and Outputs](#workshop-information-and-outputs)
+
+* [Fall 2023 Workshop at the University of Colorado Boulder](https://docs.google.com/document/d/1jbFLpNDO0Qd-elS0D67IZfu5sDCkQ7X4iPqUcuJ0hog/edit) 
+
+## [Project Description](#project-description)
+
+This research coordination network (RCN) will advance the standardization and adoption of Persistent Identifiers (PIDs) for research facilities and instruments nationally. PIDs are widely seen as foundational to open science in that PIDs uniquely identify various entities in the research ecosystem. While many categories of PIDs have come a long way in terms of standardization and adoption (examples: DOIs for publications, ORCIDs for researchers), this project is focused on the need to advance the standardization and adoption of PIDs for other categories of entities in the research ecosystem which have not progressed as far, namely for research facilities and instruments. The scientific communities which this RCN will support include the biomedical sciences, the geosciences, informatics, and many or most other scientific fields which utilize specialized facilities and equipment in the research process.
+
+While persistent identifiers are already being assigned to facilities and research equipment in a few limited cases, significantly more community adoption and standardization is needed to address the entire research ecosystem. This project builds on activities already being undertaken such as RRIDs (Research Resource Identifiers), and will convene a series of workshops and stakeholder engagements to better understand the field and current practice, develop principles of design for new PIDs, and work to generalize these principles toward practical application, thereby aiming to achieve tangible outcomes for open science. 
+
+## [Project Outputs](#project-outputs)
 
 ***Presentations***
 
@@ -12,25 +32,6 @@ layout: default
 * FAIR Facilities and Instruments: Standardization and Adoption of Persistent Identifiers (PIDs) for Research Facilities and Instruments (Poster Presentation at Association for Biomolecular Resource Facilities)
   * [Landing Page](https://diginole.lib.fsu.edu/islandora/object/fsu:856946)
   * [Poster](presentations/poster1.pdf)
-
-## Navigate to:
-* [Project Description](#project-description)
-* [Workshop Information and Outputs](#workshop-information-and-outputs)
-* [Project Investigators](#project-investigators)
-* [Advisory Committee](#advisory-committee)
-* [Project Award Information](#project-award-information)
-* [Relevant Resources](./relevant-resources.html) 
-
-
-## [Project Description](#project-description)
-
-This research coordination network (RCN) will advance the standardization and adoption of Persistent Identifiers (PIDs) for research facilities and instruments nationally. PIDs are widely seen as foundational to open science in that PIDs uniquely identify various entities in the research ecosystem. While many categories of PIDs have come a long way in terms of standardization and adoption (examples: DOIs for publications, ORCIDs for researchers), this project is focused on the need to advance the standardization and adoption of PIDs for other categories of entities in the research ecosystem which have not progressed as far, namely for research facilities and instruments. The scientific communities which this RCN will support include the biomedical sciences, the geosciences, informatics, and many or most other scientific fields which utilize specialized facilities and equipment in the research process.
-
-While persistent identifiers are already being assigned to facilities and research equipment in a few limited cases, significantly more community adoption and standardization is needed to address the entire research ecosystem. This project builds on activities already being undertaken such as RRIDs (Research Resource Identifiers), and will convene a series of workshops and stakeholder engagements to better understand the field and current practice, develop principles of design for new PIDs, and work to generalize these principles toward practical application, thereby aiming to achieve tangible outcomes for open science. 
-
-## [Workshop Information and Outputs](#workshop-information-and-outputs)
-
-* [Fall 2023 Workshop at the University of Colorado Boulder](https://docs.google.com/document/d/1jbFLpNDO0Qd-elS0D67IZfu5sDCkQ7X4iPqUcuJ0hog/edit) 
 
 ## [Project Investigators](#project-investigators)
 
@@ -49,6 +50,10 @@ Matt Mayernik is a Project Scientist and Research Data Services Specialist in th
 ### Claudius Mundoma
 
 Claudius Mundoma is the Director of Shared Instrumentation Facilities in the Office of Vice Provost and Dean of Research at Stanford University. He leads the strategy implementation and evaluation of the Shared Research Platforms initiative as well as oversees planning of future activities that elevate Stanford's shared facilities to the next level. Among many core duties, he collaborates with shared facilities leadership to address strategic and operational issues that impact the community, and supports development of new services to advance Stanford’s research and education missions. Before coming to Stanford, he led the Core Facilities and Shared Instrumentation team as the inaugural Director in the Research and Innovation at the University of Colorado Boulder. Before that, he directed the Physical Biochemistry Facility in the Institute of Molecular Biophysics at Florida State University for nearly two decades.
+
+### Matthew Murray
+
+Matthew Murray (he/they) is a Data Librarian at the Center for Research Data and Digital Scholarship at University of Colorado Boulder Libraries where he provides support for research data management and curation to faculty, students, and researchers. His current research interests include investigating preservation of 3D-printed data and other types of data physicalization.
 
 ### Aditya Ranganath
 
