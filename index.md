@@ -14,10 +14,11 @@ layout: default
 
 ## [Workshop Information and Outputs](#workshop-information-and-outputs)
 
-### ***Fall 2023 Workshop at the University of Colorado, Boulder***
+### ***Fall 2023 Workshop at the University of Colorado Boulder***
 
 * [Logistics and Information for Participants](https://docs.google.com/document/d/1jbFLpNDO0Qd-elS0D67IZfu5sDCkQ7X4iPqUcuJ0hog/edit)
 * [Workshop Agenda](https://docs.google.com/document/d/1YQ0bEx7UKzfm0emibASfxhIiQvJce1IQnfONaPBj1SA/edit?usp=sharing)
+* [Code of Conduct] (https://docs.google.com/document/d/1TEmourWPTTYV24z-6jgUsSbFNDkQ1EUj6DMV-MzqI-I/edit?usp=sharing)
 
 ## [Project Description](#project-description)
 
