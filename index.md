@@ -34,7 +34,7 @@ While persistent identifiers are already being assigned to facilities and resear
   * [Slide deck](presentations/dec22_presentation.pdf)
 * Julian, Renaine. "Increasing the Discoverability and Traceability of Research Facilities and Instruments through Persistent Identifiers." Presentation, National Science Foundation Office of Legislative and Public Affairs visit to Florida State University in Tallahassee, Florida, February 24, 2023. 
 * FAIR Facilities and Instruments: Standardization and Adoption of Persistent Identifiers (PIDs) for Research Facilities and Instruments (Poster Presentation at Association for Biomolecular Resource Facilities)
-  * [Landing Page](https://diginole.lib.fsu.edu/islandora/object/fsu:856946)
+  * [Landing Page](https://doi.org/10.33009/FSU_8b648610-91a0-4e1f-a95c-9762124b8912)
   * [Poster](presentations/poster1.pdf)
 
 ## [Project Investigators](#project-investigators)
