@@ -37,6 +37,7 @@ While persistent identifiers are already being assigned to facilities and resear
 * FAIR Facilities and Instruments: Standardization and Adoption of Persistent Identifiers (PIDs) for Research Facilities and Instruments (Poster Presentation at Association for Biomolecular Resource Facilities)
   * [Landing Page](https://doi.org/10.33009/FSU_8b648610-91a0-4e1f-a95c-9762124b8912)
   * [Poster](presentations/poster1.pdf)
+* [FAIR Facilities and Instruments Workshop #1 Report: Exploring Persistent Identifier Needs, Barriers and Incentives](http://dx.doi.org/10.5065/zgsx-2d06)
 
 ## [Project Investigators](#project-investigators)
 
