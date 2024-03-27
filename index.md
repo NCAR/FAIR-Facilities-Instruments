@@ -37,7 +37,7 @@ While persistent identifiers are already being assigned to facilities and resear
 * FAIR Facilities and Instruments: Standardization and Adoption of Persistent Identifiers (PIDs) for Research Facilities and Instruments (Poster Presentation at Association for Biomolecular Resource Facilities), May 10th, 2023.
   * [Landing Page](https://doi.org/10.33009/FSU_8b648610-91a0-4e1f-a95c-9762124b8912)
   * [Poster](presentations/poster1.pdf)
-* Johnson, Andrew. "Community-based interoperability for research facility and instrument persistent identifiers: Enabling connection throughout the data ecosystem." Lightning talk, RDAP SUmmit, March 13th, 2024.
+* Johnson, Andrew. "Community-based interoperability for research facility and instrument persistent identifiers: Enabling connection throughout the data ecosystem." Lightning talk, RDAP Summit, March 13th, 2024.
 * Ranganath, Aditya. "Enabling Open Science Through Persistent Identifiers for Research Instruments and Facilities." Year of Open Science Culminating Conference, March 21st, 2024.
   * [Slides](presentations/YearOfOpenScience_2024_FAIROS.pdf)
 * Murray, Matthew. "Reproducibility through Identifiers: Persistent Identifiers (PIDs) for research facilities and instruments." IASSIST and CARTO, May 29th, 2024.
