@@ -5,7 +5,7 @@ layout: default
 ## Navigate to:
 * [Main page](https://ncar.github.io/FAIR-Facilities-Instruments/)
 
-## [Workshop Presentations and Outputs](#workshop-information-and-outputs)
+## [Workshop Presentations and Outputs]
 
 ### ***Fall 2023 Workshop at University of Colorado Boulder***
 
