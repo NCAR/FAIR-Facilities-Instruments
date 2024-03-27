@@ -9,7 +9,7 @@ layout: default
 
 ### ***Fall 2023 Workshop at University of Colorado Boulder***
 
-* [FAIR Data Ideals at the MagLab and Why They Don’t Work](https://github.com/NCAR/FAIR-Facilities-Instruments/blob/main/presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Butcher.pdf) - David Butcher, National MagLab
+* [FAIR Data Ideals at the MagLab and Why They Don’t Work](presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Butcher.pdf) - David Butcher, National MagLab
 * [Imaging-PHD: Persistent Identification and Citable Hardware Description of Microscope Configurations](https://github.com/NCAR/FAIR-Facilities-Instruments/blob/main/presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Strambio-De-Castillia.pdf) - Caterina Strambio-De-Castillia, UMass Chan Medical School
 * [Tephra-EPMA Use Case](https://github.com/NCAR/FAIR-Facilities-Instruments/blob/main/presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Kuehn.pdf) - Steve Kuehn, Concord University, EPMA and Tephra Lab
 * [MAPNet (Mobile Atmospheric Profiling Network) General Description](https://github.com/NCAR/FAIR-Facilities-Instruments/blob/main/presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Knupp_Carey_Wade_Pangle_Phillips.pdf) - Kevin Knupp, L. Carey, R. Wade, P. Pangle, and D. Phillips, University of Alabama in Huntsville
