@@ -40,6 +40,7 @@ While persistent identifiers are already being assigned to facilities and resear
 * Johnson, Andrew. "Community-based interoperability for research facility and instrument persistent identifiers: Enabling connection throughout the data ecosystem." Lightning talk, RDAP Summit, March 13th, 2024.
 * Ranganath, Aditya. "Enabling Open Science Through Persistent Identifiers for Research Instruments and Facilities." Year of Open Science Culminating Conference, March 21st, 2024.
   * [Slides](https://osf.io/y9c8r/)
+  * [Recording](https://www.youtube.com/watch?v=Jipj4aPWptY)
 * Murray, Matthew. "Reproducibility through Identifiers: Persistent Identifiers (PIDs) for research facilities and instruments." IASSIST and CARTO, May 29th, 2024.
 
 ***Reports***
