@@ -18,7 +18,7 @@ layout: default
 
 *More information coming soon.*
 
-If you are interested in attending, please express your interest on this **[form]**(https://forms.gle/VhQezD787Q5fxp616). Travel funding is available. 
+If you are interested in attending, please express your interest on this **[form](https://forms.gle/VhQezD787Q5fxp616)**. Travel funding is available. 
 
 ### ***Fall 2023 Workshop at University of Colorado Boulder***
 
