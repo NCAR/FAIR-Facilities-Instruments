@@ -42,6 +42,7 @@ While persistent identifiers are already being assigned to facilities and resear
   * [Slides](https://osf.io/y9c8r/)
   * [Recording](https://www.youtube.com/watch?v=Jipj4aPWptY)
 * Murray, Matthew. "Reproducibility through Identifiers: Persistent Identifiers (PIDs) for research facilities and instruments." IASSIST and CARTO, May 29th, 2024.
+  * [Slides](https://zenodo.org/records/11390747)
 
 ***Reports***
  
