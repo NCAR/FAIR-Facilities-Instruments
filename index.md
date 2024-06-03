@@ -14,6 +14,12 @@ layout: default
 
 ## [Workshop Information and Outputs](#workshop-information-and-outputs)
 
+### ***Summer 2024 Workshop at Florida State University***
+
+If you are interested in attending, please express your interest on this **[form](https://forms.gle/VhQezD787Q5fxp616)**. Travel funding is available. 
+
+* [Logistics and Information for Participants](https://docs.google.com/document/d/1krS49U1dmW3LPn2AfGTDFPjKbsCA8VBFGvT5cpIRDu8/edit#heading=h.d21oec3cec2g)
+
 ### ***Fall 2023 Workshop at University of Colorado Boulder***
 
 * [Logistics and Information for Participants](https://docs.google.com/document/d/1jbFLpNDO0Qd-elS0D67IZfu5sDCkQ7X4iPqUcuJ0hog/edit)
