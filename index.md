@@ -18,7 +18,9 @@ layout: default
 
 If you are interested in attending, please express your interest on this **[form](https://forms.gle/VhQezD787Q5fxp616)**. Travel funding is available. 
 
-* [Logistics and Information for Participants](https://docs.google.com/document/d/1krS49U1dmW3LPn2AfGTDFPjKbsCA8VBFGvT5cpIRDu8/edit#heading=h.d21oec3cec2g)
+* [Logistics and Information for Participants](https://docs.google.com/document/d/1krS49U1dmW3LPn2AfGTDFPjKbsCA8VBFGvT5cpIRDu8/edit?usp=sharing)
+* [Preliminary Agenda](https://docs.google.com/document/d/1fHsAuB0lHuheV6j3iDf8yHT7ztyXROx2CHRXMM5vM2g/edit?usp=sharing)
+
 
 ### ***Fall 2023 Workshop at University of Colorado Boulder***
 
