@@ -49,6 +49,8 @@ While persistent identifiers are already being assigned to facilities and resear
 * Ranganath, Aditya. "Enabling Open Science Through Persistent Identifiers for Research Instruments and Facilities." Year of Open Science Culminating Conference, March 21st, 2024.
   * [Slides](https://osf.io/y9c8r/)
   * [Recording](https://www.youtube.com/watch?v=Jipj4aPWptY)
+* Ranganath, Aditya & Murray, Matthew. "Persistent Unique Identifiers for Instruments and Facilities." Rocky Mountain Advanced Computing Consortium High Performance Computing Symposium, May 23rd, 2024.
+  * [Slides](https://scholar.colorado.edu/concern/presentations/rr172004s)
 * Murray, Matthew. "Reproducibility through Identifiers: Persistent Identifiers (PIDs) for research facilities and instruments." IASSIST and CARTO, May 29th, 2024.
   * [Slides](https://zenodo.org/doi/10.5281/zenodo.11390746)
 
