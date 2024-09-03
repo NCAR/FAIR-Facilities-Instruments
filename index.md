@@ -22,14 +22,14 @@ If you are interested in attending, please let us know. Travel funding is availa
 
 * [Logistics and Information for Participants](https://docs.google.com/document/d/1krS49U1dmW3LPn2AfGTDFPjKbsCA8VBFGvT5cpIRDu8/edit?usp=sharing)
 * [Workshop Agenda](https://docs.google.com/document/d/1fHsAuB0lHuheV6j3iDf8yHT7ztyXROx2CHRXMM5vM2g/edit?usp=sharing)
-* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations/#Aug2024)
+* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations#Aug2024)
 
 ### ***September 2023 Workshop at University of Colorado Boulder***
 
 * [Logistics and Information for Participants](https://docs.google.com/document/d/1jbFLpNDO0Qd-elS0D67IZfu5sDCkQ7X4iPqUcuJ0hog/edit)
 * [Workshop Agenda](https://docs.google.com/document/d/1YQ0bEx7UKzfm0emibASfxhIiQvJce1IQnfONaPBj1SA/edit?usp=sharing)
 * [Code of Conduct](https://docs.google.com/document/d/1TEmourWPTTYV24z-6jgUsSbFNDkQ1EUj6DMV-MzqI-I/edit?usp=sharing)
-* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations/#Sept2023)
+* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations#Sept2023)
 
 ## [Project Description](#project-description)
 
