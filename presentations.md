@@ -5,7 +5,7 @@ layout: default
 ## Navigate to:
 * [Main page](https://ncar.github.io/FAIR-Facilities-Instruments/)
 
-## [Workshop Presentations and Outputs]
+## Workshop Presentations and Outputs
 
 ### [August 2024 Workshop at Florida State University](#Aug2024)
 * [Workshop #2 Introduction](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Julian.pdf) - Renaine Julian, Andrew Johnson, Matt Mayernik
