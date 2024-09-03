@@ -7,7 +7,7 @@ layout: default
 
 ## [Workshop Presentations and Outputs]
 
-### ***[August 2024 Workshop at Florida State University]***(#Aug2024)
+### [August 2024 Workshop at Florida State University](#Aug2024)
 * [Workshop #2 Introduction](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Julian.pdf) - Renaine Julian, Andrew Johnson, Matt Mayernik
 * [Challenges with creating PID ontologies](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Glerum.pdf) - Annie Glerum, Florida State University
 * [Facility and Instrument PIDs in the Materials Research Data Domain](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Elbert.pdf) - David Elbert, Johns Hopkins University
@@ -26,7 +26,7 @@ layout: default
 * [NoCTURN: Non-Clinical Tomography Users Research Network](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Stanley.pdf) - Ed Stanley, Florida Museum of Natural History
 * [ORCID](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Sadler.pdf) - Shawna Sadler, ORCID
 
-### [***September 2023 Workshop at University of Colorado Boulder***]](#Sept2023)
+### [September 2023 Workshop at University of Colorado Boulder]](#Sept2023)
 
 * [FAIR Data Ideals at the MagLab and Why They Don’t Work](presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Butcher.pdf) - David Butcher, National MagLab
 * [Imaging-PHD: Persistent Identification and Citable Hardware Description of Microscope Configurations](presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Strambio-De-Castillia.pdf) - Caterina Strambio-De-Castillia, UMass Chan Medical School
