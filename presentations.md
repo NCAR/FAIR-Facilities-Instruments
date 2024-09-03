@@ -4,6 +4,9 @@ layout: default
 
 ## Navigate to:
 * [Main page](https://ncar.github.io/FAIR-Facilities-Instruments/)
+* [August 2024 Workshop at Florida State University](#Aug2024)
+* [September 2023 Workshop at University of Colorado Boulder](#Sept2023)
+
 
 ## [Workshop Presentations and Outputs]
 
