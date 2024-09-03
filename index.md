@@ -14,20 +14,22 @@ layout: default
 
 ## [Workshop Information and Outputs](#workshop-information-and-outputs)
 
-### ***Summer 2024 Workshop at Florida State University***
+### ***2025 Workshop at NSF National Center for Atmospheric Research***
 
-If you are interested in attending, please express your interest on this **[form](https://forms.gle/VhQezD787Q5fxp616)**. Travel funding is available. 
+If you are interested in attending, please let us know. Travel funding is available. 
+
+### ***August 2024 Workshop at Florida State University***
 
 * [Logistics and Information for Participants](https://docs.google.com/document/d/1krS49U1dmW3LPn2AfGTDFPjKbsCA8VBFGvT5cpIRDu8/edit?usp=sharing)
-* [Preliminary Agenda](https://docs.google.com/document/d/1fHsAuB0lHuheV6j3iDf8yHT7ztyXROx2CHRXMM5vM2g/edit?usp=sharing)
+* [Workshop Agenda](https://docs.google.com/document/d/1fHsAuB0lHuheV6j3iDf8yHT7ztyXROx2CHRXMM5vM2g/edit?usp=sharing)
+* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations/#Aug2024)
 
-
-### ***Fall 2023 Workshop at University of Colorado Boulder***
+### ***September 2023 Workshop at University of Colorado Boulder***
 
 * [Logistics and Information for Participants](https://docs.google.com/document/d/1jbFLpNDO0Qd-elS0D67IZfu5sDCkQ7X4iPqUcuJ0hog/edit)
 * [Workshop Agenda](https://docs.google.com/document/d/1YQ0bEx7UKzfm0emibASfxhIiQvJce1IQnfONaPBj1SA/edit?usp=sharing)
 * [Code of Conduct](https://docs.google.com/document/d/1TEmourWPTTYV24z-6jgUsSbFNDkQ1EUj6DMV-MzqI-I/edit?usp=sharing)
-* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations)
+* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations/#Sept2023)
 
 ## [Project Description](#project-description)
 
@@ -104,7 +106,7 @@ Matthew Buys is the Executive Director of DataCite, an international organizatio
 
 ### Danielle Cooper and Dylan Ruediger
 
-Danielle and Dylan are from from Ithaka S+R, a not-for-profit research organization that specializes in leveraging cross-sector engagement with academic administration and leadership, scholarly communications, scholarly societies, libraries, and information technology services. Danielle is Director, Libraries, Scholarly Communication and Museums; Dylan is Program Manager, Research Enterprise. They are both experts on maximizing opportunities for researcher sharing to advance FAIR and open science principles, for example, in a current NSF-funded project on Leveraging Data Communities to Advance Open Science.
+Danielle and Dylan are from Ithaka S+R, a not-for-profit research organization that specializes in leveraging cross-sector engagement with academic administration and leadership, scholarly communications, scholarly societies, libraries, and information technology services. Danielle is Director, Libraries, Scholarly Communication and Museums; Dylan is Program Manager, Research Enterprise. They are both experts on maximizing opportunities for researcher sharing to advance FAIR and open science principles, for example, in a current NSF-funded project on Leveraging Data Communities to Advance Open Science.
 
 ### Nate Herzog
 

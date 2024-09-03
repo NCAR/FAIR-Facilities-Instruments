@@ -7,7 +7,26 @@ layout: default
 
 ## [Workshop Presentations and Outputs]
 
-### ***Fall 2023 Workshop at University of Colorado Boulder***
+### ***[August 2024 Workshop at Florida State University]***(#Aug2024)
+* [Workshop #2 Introduction](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Julian.pdf) - Renaine Julian, Andrew Johnson, Matt Mayernik
+* [Challenges with creating PID ontologies](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Glerum.pdf) - Annie Glerum, Florida State University
+* [Facility and Instrument PIDs in the Materials Research Data Domain](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Elbert.pdf) - David Elbert, Johns Hopkins University
+* [RRIDs: A Way to Track Resources Through the Literature...Like ORCID for Core Facilities?](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Bandrowski.pdf) - Anita Bandrowski, University of California San Diego & SciCrunch
+* [Instruments @ Datacite - 2024](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Habermann.pdf) - Ted Habermann, Metadata Game Changers
+* [Persistent Identifiers for Instruments: i4iOZ and the Australasian experience](presentations/2024-FAIR-FSU/2024-FAIR-FSU-McCafferty.pdf) - Siobhann McCafferty, Australian Research Data Commons (remote)
+* [PIDs and Cores: Current Status and Future Progress](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Somasundaram.pdf) - Thayumanasamy “Soma” Somasundaram, Florida State University
+* [Facility operation - Key issues and opportunities](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Knupp.pdf) - Kevin Knupp and Preston Pangle, University of Alabama in Huntsville
+* [Physical Biochemistry Core Facility](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Randolph.pdf) - Peter Randolph, Florida State University
+* [CoreMarketplace: PIDs and Publication Citations (Not as Popular as TikTok)](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Herzog.pdf) - Nate Herzog, CoreMarketplace
+* [Using Instrument DOIs to Track Citations](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Mayernik.pdf) - Matt Mayernik, NSF National Center for Atmospheric Research
+* [RSpace integration with identifiers and RRIDs for Samples, Facilities & Instruments](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Day.pdf) - Rob Day, Research Space
+* [CSIRO/CHORUS: Research Resources/Facilities Pilot](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Packer.pdf) - Tara Packer, CHORUS
+* [FAIR TWG Next Steps](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Brower.pdf) - Don Brower, University of Notre Dame & CI Compass
+* [PIDs Across Disciplines, Perspectives from the University of Rochester](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Siddiqui.pdf) - Sarah Siddiqui, University of Rochester
+* [NoCTURN: Non-Clinical Tomography Users Research Network](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Stanley.pdf) - Ed Stanley, Florida Museum of Natural History
+* [ORCID](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Sadler.pdf) - Shawna Sadler, ORCID
+
+### [***September 2023 Workshop at University of Colorado Boulder***]](#Sept2023)
 
 * [FAIR Data Ideals at the MagLab and Why They Don’t Work](presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Butcher.pdf) - David Butcher, National MagLab
 * [Imaging-PHD: Persistent Identification and Citable Hardware Description of Microscope Configurations](presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Strambio-De-Castillia.pdf) - Caterina Strambio-De-Castillia, UMass Chan Medical School
