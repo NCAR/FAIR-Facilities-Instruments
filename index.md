@@ -14,7 +14,7 @@ layout: default
 
 ## [Workshop Information and Outputs](#workshop-information-and-outputs)
 
-* [Code of Conduct](https://docs.google.com/document/d/1TEmourWPTTYV24z-6jgUsSbFNDkQ1EUj6DMV-MzqI-I/edit?usp=sharing)
+* [Code of Conduct](codeofconduct)
 
 ### ***2025 Workshop at NSF National Center for Atmospheric Research***
 
