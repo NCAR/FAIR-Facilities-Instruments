@@ -10,6 +10,7 @@ layout: default
 ### [August 2024 Workshop at Florida State University](#Aug2024)
 
 Date: August 20-22, 2024
+
 Location: [National High Magnetic Field Laboratory](https://nationalmaglab.org/user-resources/doing-your-experiment/travel-and-lodging/travel-to-tallahassee/), Florida State University - Talllahassee, Florida
 
 #### Key Links
@@ -20,11 +21,12 @@ Location: [National High Magnetic Field Laboratory](https://nationalmaglab.org/u
 
 #### Workshop Agenda
 
-AUG 20 - Day 1 PM 12:30-5:00 PM : Progress and Lessons Learned
+Day 1, 12:30 PM - 5:00 PM
+* Theme: Progress and Lessons Learned
 * 12:30 - 1:00 Participants arrive and check-in
 * 1:00 - 2:00 Workshop introduction & Project Progress
 	* FAIR Facilities and Instruments updates 
-	* Annie Glerum, Florida State University: Challenges with creating PID ontologies  
+	* Annie Glerum, Florida State University: Challenges with creating PID ontologies 
 * 2:00 - 3:00 Topical Talks: Community Advances In PIDs for Facilities and Instruments
 	* David Elbert - Johns Hopkins University
 * Anita Bandrowski - University of California San Diego & SciCrunch
@@ -34,8 +36,9 @@ AUG 20 - Day 1 PM 12:30-5:00 PM : Progress and Lessons Learned
 * 3:30 - 4:30 Breakout groups sessions
 * 4:30 - 5:00 Breakout group reports and preview tomorrow
 
-AUG 21 - Day 2 9:00 AM - 5:00 PM:  Practical Challenges
-* 9:00 - 9:30 Participants arrive  
+Day 2, 9:00 AM - 5:00 PM
+* Theme: Practical Challenges
+* 9:00 - 9:30 Participants arrive 
 * 9:30 - 10:45 Facility operator panel - What are the key issues and opportunities?
 	* Thayumanasamy “Soma” Somasundaram - Florida State University
 	* Kevin Knupp - University of Alabama in Huntsville
@@ -53,7 +56,8 @@ AUG 21 - Day 2 9:00 AM - 5:00 PM:  Practical Challenges
 * 3:15 - 4:30 Breakout group sessions
 * 4:30 - 5:00 Breakout group reports and preview tomorrow
 
-AUG 22 - Day 3 AM 9:00 - 12:30:  How do we move forward and build upon these discussions with our communities?  What are the big picture outcomes and next steps?
+Day 3, 9:00 AM - 12:30 PM
+* Theme: How do we move forward and build upon these discussions with our communities? What are the big picture outcomes and next steps?
 * 9:00 - 9:30 Participants arrive
 * 9:30 - 10:00 Review and prioritize outputs from day 1 and 2
 * 10:00 - 11:00 Topical Talks: Looking Forward From Different Stakeholder Perspectives
@@ -64,8 +68,77 @@ AUG 22 - Day 3 AM 9:00 - 12:30:  How do we move forward and build upon these dis
 * 11:00 - 11:15 Break
 * 11:15 - 12:15 Final discussion, review next steps for workshop report, and requested participant actions
 
-
-
 ### [September 2023 Workshop at University of Colorado Boulder](#Sept2023)
 
+Date: September 13-15, 2023
 
+Location: Norlin Library, Room N410 - University of Colorado Boulder, Boulder, Colorado
+
+#### Workshop Agenda
+
+SEPT 13 - Day 1, 12:30-5:00 PM
+* Theme: What is the existing landscape in using persistent identifiers for instruments and facilities and what gaps exist in that landscape for producers and users? 
+* 12:30 - 1:00 Participants arrive and check-in
+* 1:00 - 1:15 Welcome from Robert McDonald, Dean of University Libraries, Senior Vice Provost of Online Education, and Professor of Library Administration at CU Boulder
+* 1:15 - 1:45 Workshop introduction
+* 1:45 - 1:50 Review pre-workshop survey results 
+* 1:50 - 2:50 Topical Talks: Use Cases (5 x 10 minutes)
+	* David Butcher - National MagLab
+	* Caterina Strambio-De-Castillia -UMass Chan Medical School
+	* Steve Kuehn - Concord University, EPMA and Tephra Lab
+	* Kevin Knupp - University of Alabama in Huntsville
+	* Harold Shanafield & Chirag Shah - Atmospheric Radiation Measurement Facility Data Center, ORNL
+* 2:50 - 2:55 Summarize breakout group charges
+* 2:55 - 3:15 Break
+* 3:15 - 4:15 Breakout groups sessions
+	* Groups 1 and 2: Norlin Library, Room N410
+	* Group 3: Norlin Library, Room M220
+	* Group 4: Norlin Library, Room E113
+* 4:20 - 5:00 Breakout group reports and preview tomorrow
+
+Day 2, 9:00 AM - 12:30 PM
+* Theme: Persistent Identifier Schemes: What would you like to have from PID systems and why? 
+* 9:00 - 9:30 Participants arrive 
+* 9:30 - 9:45 Introduction to the day
+* 9:45 - 10:45 Topical Talks: PID Systems and Initiatives (4 x 12 minutes)
+	* Anita Bandrowski - SciCrunch, RRID Initiative
+	* Ted Habermann - Metadata Game Changers
+	* Mark Parsons & Ted Haberman- ARK overview
+	* Shawna Sadler - ORCID (remote)
+* 10:45 - 11:00 break
+* 11:00 - 11:05 Summarize breakout group charges
+* 11:15 - 12:00 Breakout group sessions
+* Groups 1 and 2: Norlin Library, Room N410
+* Group 3: Norlin Library, Room M220
+* Group 4: Norlin Library, Room E113
+* 12:00 - 1:30 Lunch
+
+Day 2, 1:30 PM - 5:00 PM
+* Theme: What is realistic/doable with constraints when assigning PIDs to research instruments and facilities 
+* 1:30 - 2:00 Breakout group reports
+* 2:00 - 3:00 Topical Talks: Use Cases (5 x 10 minutes)
+	* Kerstin Lehnert - Columbia University, Lamont-Doherty Earth Observatory (remote)
+	* Daven Quinn - University of Wisconsin—Madison
+	* Thayumanasamy Somasundaram - Florida State University
+	* Andy Chitty - Oregon Health and Science University
+	* Matthew Harp - Arizona State University Library
+* 3:00 - 3:15 break
+* 3:15 - 3:20 Summarize breakout group charges
+* 3:20 - 4:20 Breakout group sessions
+	* Groups 1 and 2: Norlin Library, Room N410
+	* Group 3: Norlin Library, Room M220
+	* Group 4: Norlin Library, Room E113
+* 4:30 - 5:00 Breakout group reports and preview tomorrow
+
+Day 3, 9:00 AM - 12:30 PM
+* Theme: How do we move forward and build upon these discussions with our communities? What are the big picture outcomes and concrete next steps for all of us?
+* 9:00 - 9:30 Participants arrive
+* 9:30 - 10:00 Review and prioritize outputs from day 1 and 2
+* 10:00 - 11:00 Topical Talks: Looking Forward (5 x 10 minutes)
+	* Kristina Vrouwenvelder - American Geophysical Union
+	* Markus Stocker - TIB - Leibniz Information Centre for Science and Technology (remote)
+	* David Elbert - Johns Hopkins and Materials Research Data Alliance
+	* Mark Parsons - NASA Chief Science Data Office
+	* Claudius Mundoma - Stanford University
+* 11:00 - 11:15 Break
+* 11:15 - 12:15 Final discussion, review next steps for workshop report, and requested participant actions
