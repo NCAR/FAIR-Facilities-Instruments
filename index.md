@@ -22,7 +22,7 @@ If you are interested in attending, please let us know. Travel funding is availa
 
 ### ***August 2024 Workshop at Florida State University***
 
-* [Workshop Agenda](agendas#august-2024-workshop-at-florida-state-university))
+* [Workshop Agenda](agendas#august-2024-workshop-at-florida-state-university)
 * [Slides from presentations](presentations#august-2024-workshop-at-florida-state-university)
 
 ### ***September 2023 Workshop at University of Colorado Boulder***

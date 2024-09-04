@@ -17,7 +17,7 @@ Location: [National High Magnetic Field Laboratory](https://nationalmaglab.org/u
 * [Collaborative notes document](https://docs.google.com/document/d/1PBerTRWAfqJBfuX0YfiJA3R2NC85057MwrZvpPHtOWM/edit#heading=h.f2mbk41fe26b)
 * [Slido for breakout discussion ideas](https://app.sli.do/event/uWt7BoERT1VMpiKirnXCXn/login?clusterId=eu1&redirect_url=https%3A%2F%2Fapp.sli.do%2Fevent%2FuWt7BoERT1VMpiKirnXCXn%2Flive%2Fquestions%3FclusterId%3Deu1)
 * [Breakout discussion notes](https://drive.google.com/drive/u/0/folders/13xNWoQ-yCZkzhXHGL9HJQgn-fGnRAChW)
-* [Speaker slides](/presentations)
+* [Speaker slides](presentations#august-2024-workshop-at-florida-state-university)
 
 #### Workshop Agenda
 
@@ -72,7 +72,10 @@ Day 3, 9:00 AM - 12:30 PM
 
 Date: September 13-15, 2023
 
-Location: Norlin Library, Room N410 - University of Colorado Boulder, Boulder, Colorado
+Location: Norlin Library, Room N410, University of Colorado Boulder - Boulder, Colorado
+
+#### Key Links
+* [Speaker slides](presentations#september-2023-workshop-at-university-of-colorado-boulder)
 
 #### Workshop Agenda
 
