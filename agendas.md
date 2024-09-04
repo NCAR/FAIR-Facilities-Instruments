@@ -9,19 +9,18 @@ layout: default
 
 ### [August 2024 Workshop at Florida State University](#Aug2024)
 
-FAIR FACILITIES AND INSTRUMENTS - WORKSHOP 2 - AUGUST 20-22, 2024
-LOCATION - NATIONAL HIGH MAGNETIC FIELD LABORATORY 
-FLORIDA STATE UNIVERSITY - TALLAHASSEE, FLORIDA
+Date: August 20-22, 2024
+Location: [National High Magnetic Field Laboratory](https://nationalmaglab.org/user-resources/doing-your-experiment/travel-and-lodging/travel-to-tallahassee/), Florida State University - Talllahassee, Florida
 
-KEY LINKS
-* Collaborative notes document
-* Slido for breakout discussion ideas
-* Breakout discussion notes
-* Speaker slides
+#### Key Links
+* [Collaborative notes document](https://docs.google.com/document/d/1PBerTRWAfqJBfuX0YfiJA3R2NC85057MwrZvpPHtOWM/edit#heading=h.f2mbk41fe26b)
+* [Slido for breakout discussion ideas](https://app.sli.do/event/uWt7BoERT1VMpiKirnXCXn/login?clusterId=eu1&redirect_url=https%3A%2F%2Fapp.sli.do%2Fevent%2FuWt7BoERT1VMpiKirnXCXn%2Flive%2Fquestions%3FclusterId%3Deu1)
+* [Breakout discussion notes](https://drive.google.com/drive/u/0/folders/13xNWoQ-yCZkzhXHGL9HJQgn-fGnRAChW)
+* [Speaker slides](/presentations)
 
-WORKSHOP AGENDA
+#### Workshop Agenda
 
-AUG 20 - DAY 1 PM 12:30-5:00 PM : Progress and Lessons Learned
+AUG 20 - Day 1 PM 12:30-5:00 PM : Progress and Lessons Learned
 * 12:30 - 1:00 Participants arrive and check-in
 * 1:00 - 2:00 Workshop introduction & Project Progress
 	* FAIR Facilities and Instruments updates 
@@ -35,7 +34,7 @@ AUG 20 - DAY 1 PM 12:30-5:00 PM : Progress and Lessons Learned
 * 3:30 - 4:30 Breakout groups sessions
 * 4:30 - 5:00 Breakout group reports and preview tomorrow
 
-AUG 21 - DAY 2 9:00 AM - 5:00 PM:  Practical Challenges
+AUG 21 - Day 2 9:00 AM - 5:00 PM:  Practical Challenges
 * 9:00 - 9:30 Participants arrive  
 * 9:30 - 10:45 Facility operator panel - What are the key issues and opportunities?
 	* Thayumanasamy “Soma” Somasundaram - Florida State University
@@ -54,7 +53,7 @@ AUG 21 - DAY 2 9:00 AM - 5:00 PM:  Practical Challenges
 * 3:15 - 4:30 Breakout group sessions
 * 4:30 - 5:00 Breakout group reports and preview tomorrow
 
-AUG 22 - DAY 3 AM 9:00 - 12:30:  How do we move forward and build upon these discussions with our communities?  What are the big picture outcomes and next steps?
+AUG 22 - Day 3 AM 9:00 - 12:30:  How do we move forward and build upon these discussions with our communities?  What are the big picture outcomes and next steps?
 * 9:00 - 9:30 Participants arrive
 * 9:30 - 10:00 Review and prioritize outputs from day 1 and 2
 * 10:00 - 11:00 Topical Talks: Looking Forward From Different Stakeholder Perspectives
