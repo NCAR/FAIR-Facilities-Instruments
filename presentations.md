@@ -7,7 +7,7 @@ layout: default
 
 ## Workshop Presentations and Outputs
 
-### [August 2024 Workshop at Florida State University](#Aug2024)
+### [August 2024 Workshop at Florida State University](#august-2024-workshop-at-florida-state-university)
 * [Workshop #2 Introduction](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Julian.pdf) - Renaine Julian, Andrew Johnson, Matt Mayernik
 * [Challenges with creating PID ontologies](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Glerum.pdf) - Annie Glerum, Florida State University
 * [Facility and Instrument PIDs in the Materials Research Data Domain](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Elbert.pdf) - David Elbert, Johns Hopkins University

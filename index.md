@@ -14,21 +14,20 @@ layout: default
 
 ## [Workshop Information and Outputs](#workshop-information-and-outputs)
 
+* [Code of Conduct](https://docs.google.com/document/d/1TEmourWPTTYV24z-6jgUsSbFNDkQ1EUj6DMV-MzqI-I/edit?usp=sharing)
+
 ### ***2025 Workshop at NSF National Center for Atmospheric Research***
 
 If you are interested in attending, please let us know. Travel funding is available. 
 
 ### ***August 2024 Workshop at Florida State University***
 
-* [Logistics and Information for Participants](https://docs.google.com/document/d/1krS49U1dmW3LPn2AfGTDFPjKbsCA8VBFGvT5cpIRDu8/edit?usp=sharing)
 * [Workshop Agenda](https://docs.google.com/document/d/1fHsAuB0lHuheV6j3iDf8yHT7ztyXROx2CHRXMM5vM2g/edit?usp=sharing)
-* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations)
+* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations.md/#august-2024-workshop-at-florida-state-university)
 
 ### ***September 2023 Workshop at University of Colorado Boulder***
 
-* [Logistics and Information for Participants](https://docs.google.com/document/d/1jbFLpNDO0Qd-elS0D67IZfu5sDCkQ7X4iPqUcuJ0hog/edit)
 * [Workshop Agenda](https://docs.google.com/document/d/1YQ0bEx7UKzfm0emibASfxhIiQvJce1IQnfONaPBj1SA/edit?usp=sharing)
-* [Code of Conduct](https://docs.google.com/document/d/1TEmourWPTTYV24z-6jgUsSbFNDkQ1EUj6DMV-MzqI-I/edit?usp=sharing)
 * [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations)
 
 ## [Project Description](#project-description)
@@ -86,9 +85,9 @@ Matthew Murray (he/they) is a Data Librarian at the Center for Research Data and
 
 Aditya Ranganath is a data librarian at the Center for Research Data and Digital Scholarship (CRDDS) at the University of Colorado Boulder Libraries, where he collaborates with members of the CU community on data-intensive tasks that span the research data lifecycle. 
 
-### Greg Stossmeister
+### Greg Stossmeister (retired)
 
-Greg Stossmeister is the Manager of the Data Management & Services Facility at the NCAR Earth Observing Laboratory (EOL). His work is focused on providing real-time data support to scientific field campaigns through the EOL Field Catalog and providing advanced data services and archival and access to field campaign datasets through the EOL Field Data Archive. 
+Greg Stossmeister was the Manager of the Data Management & Services Facility at the NCAR Earth Observing Laboratory (EOL). His work is focused on providing real-time data support to scientific field campaigns through the EOL Field Catalog and providing advanced data services and archival and access to field campaign datasets through the EOL Field Data Archive. 
 
 ## [Advisory Committee](#advisory-committee)
 
