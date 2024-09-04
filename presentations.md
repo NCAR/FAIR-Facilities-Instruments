@@ -26,7 +26,7 @@ layout: default
 * [NoCTURN: Non-Clinical Tomography Users Research Network](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Stanley.pdf) - Ed Stanley, Florida Museum of Natural History
 * [ORCID](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Sadler.pdf) - Shawna Sadler, ORCID
 
-### [September 2023 Workshop at University of Colorado Boulder](#Sept2023)
+### [September 2023 Workshop at University of Colorado Boulder](#september-2023-workshop-at-university-of-colorado-boulder)
 
 * [FAIR Data Ideals at the MagLab and Why They Don’t Work](presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Butcher.pdf) - David Butcher, National MagLab
 * [Imaging-PHD: Persistent Identification and Citable Hardware Description of Microscope Configurations](presentations/2023-FAIR-Boulder/2023-FAIR-Boulder-Strambio-De-Castillia.pdf) - Caterina Strambio-De-Castillia, UMass Chan Medical School

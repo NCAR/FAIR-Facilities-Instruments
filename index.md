@@ -22,13 +22,13 @@ If you are interested in attending, please let us know. Travel funding is availa
 
 ### ***August 2024 Workshop at Florida State University***
 
-* [Workshop Agenda](https://docs.google.com/document/d/1fHsAuB0lHuheV6j3iDf8yHT7ztyXROx2CHRXMM5vM2g/edit?usp=sharing)
-* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations/#august-2024-workshop-at-florida-state-university)
+* [Workshop Agenda](agenda)
+* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations#august-2024-workshop-at-florida-state-university)
 
 ### ***September 2023 Workshop at University of Colorado Boulder***
 
 * [Workshop Agenda](https://docs.google.com/document/d/1YQ0bEx7UKzfm0emibASfxhIiQvJce1IQnfONaPBj1SA/edit?usp=sharing)
-* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations)
+* [Slides from presentations](https://ncar.github.io/FAIR-Facilities-Instruments/presentations#september-2023-workshop-at-university-of-colorado-boulder)
 
 ## [Project Description](#project-description)
 
