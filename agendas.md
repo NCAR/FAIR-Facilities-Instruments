@@ -14,9 +14,6 @@ Date: August 20-22, 2024
 Location: [National High Magnetic Field Laboratory](https://nationalmaglab.org/user-resources/doing-your-experiment/travel-and-lodging/travel-to-tallahassee/), Florida State University - Talllahassee, Florida
 
 #### Key Links
-* [Collaborative notes document](https://docs.google.com/document/d/1PBerTRWAfqJBfuX0YfiJA3R2NC85057MwrZvpPHtOWM/edit#heading=h.f2mbk41fe26b)
-* [Slido for breakout discussion ideas](https://app.sli.do/event/uWt7BoERT1VMpiKirnXCXn/login?clusterId=eu1&redirect_url=https%3A%2F%2Fapp.sli.do%2Fevent%2FuWt7BoERT1VMpiKirnXCXn%2Flive%2Fquestions%3FclusterId%3Deu1)
-* [Breakout discussion notes](https://drive.google.com/drive/u/0/folders/13xNWoQ-yCZkzhXHGL9HJQgn-fGnRAChW)
 * [Speaker slides](presentations#august-2024-workshop-at-florida-state-university)
 
 #### Workshop Agenda
