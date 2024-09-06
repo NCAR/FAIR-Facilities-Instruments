@@ -103,9 +103,9 @@ David is the FAIR data management specialist at the National High Magnetic Field
 
 Matthew Buys is the Executive Director of DataCite, an international organization that provides Digital Object Identifier (DOI) registration services. DataCite supports over 1,200 organizations from 50 countries, and supports the assignment of PIDs and metadata to a wide variety of research resources, including facilities and instruments.
 
-### Danielle Cooper and Dylan Ruediger
+### Danielle Cooper
 
-Danielle and Dylan are from Ithaka S+R, a not-for-profit research organization that specializes in leveraging cross-sector engagement with academic administration and leadership, scholarly communications, scholarly societies, libraries, and information technology services. Danielle is Director, Libraries, Scholarly Communication and Museums; Dylan is Program Manager, Research Enterprise. They are both experts on maximizing opportunities for researcher sharing to advance FAIR and open science principles, for example, in a current NSF-funded project on Leveraging Data Communities to Advance Open Science.
+Danielle Cooper is senior program associate for Public Knowledge at the Mellon Foundation. She has expertise in developing collaborations between information professionals and diverse teaching and learning communities.
 
 ### Nate Herzog
 
@@ -120,6 +120,10 @@ Kevin is the current President of the Association of Biomolecular Resource Facil
 
 Giri is the Section Head of the Earth System Informatics and Data Discovery section at Oak Ridge National Laboratory. He is responsible for overseeing data center groups that manage the earth and environmental data centers.
 
+### Dylan Ruediger
+
+Dylan is Program Manager, Research Enterprise at Ithaka S+R, a not-for-profit research organization that specializes in leveraging cross-sector engagement with academic administration and leadership, scholarly communications, scholarly societies, libraries, and information technology services. He is an expert on maximizing opportunities for researcher sharing to advance FAIR and open science principles, for example, in a current NSF-funded project on Leveraging Data Communities to Advance Open Science.
+
 ### Shelley Stall
 
 Shelley is the Sr. Director for Data Leadership for the American Geophysical Union (AGU).  Shelley is a leader in the Earth science publishing industry, serving as a community organizer for data repositories and publishers to develop community conventions for the use of PIDs in scientific publications (Stall et al, 2019).
@@ -129,6 +133,8 @@ Shelley is the Sr. Director for Data Leadership for the American Geophysical Uni
 Shawna leads the Outreach & Partnerships work at ORCID. In this role, she builds strategic relationships worldwide and explores new opportunities for adoption and growth. Previously, Shawna was ORCID’s Engagement Manager for the Americas continuing the adoption and integration of ORCID in North, Central and South America and the Caribbean. 
 
 ### Zach Chandler
+
+Zach Chandler is Director of Open Scholarship Strategy at Stanford University. He leads development of open science practices at Stanford, including initiatives related to data and methods sharing, open access, open source software, and persistent identifiers.
 
 ## [Project Award Information](#project-award-information)
 
