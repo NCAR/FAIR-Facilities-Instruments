@@ -38,6 +38,9 @@ While persistent identifiers are already being assigned to facilities and resear
 
 ## [Project Outputs](#project-outputs)
 
+***Articles***
+* Mayernik, Matthew, Andrew Johnson, Renaine Julian, Matthew Murray, Claudius Mundoma, Aditya Ranganath, and Greg Stossmeister. 2024 “[Persistent Identifiers for Instruments and Facilities: Current State, Challenges, and Opportunities](https://doi.org/10.7191/jeslib.964).” Journal of eScience Librarianship 13 (3): e964. https://doi.org/10.7191/jeslib.964
+
 ***Presentations***
 
 * Mayernik, Matthew. "Fair Facilities and Instruments." Presentation, FAIROS RCN Inaugural Cohort Monthly Call, December 16, 2022. 
