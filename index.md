@@ -60,7 +60,9 @@ While persistent identifiers are already being assigned to facilities and resear
 
 ***Reports***
  
-* [FAIR Facilities and Instruments Workshop #1 Report: Exploring Persistent Identifier Needs, Barriers and Incentives](http://dx.doi.org/10.5065/zgsx-2d06), February, 2024
+* [FAIR Facilities and Instruments Workshop #1 Report: Exploring Persistent Identifier Needs, Barriers and Incentives](http://dx.doi.org/10.5065/zgsx-2d06), February, 2024.
+
+* [FAIR Facilities and Instruments Workshop #2 Report: Recent Progress, Remaining Challenges, and Emerging PID Strategies](https://doi.org/10.5065/jea7-yf24), November, 2024.
 
 ## [Project Investigators](#project-investigators)
 
