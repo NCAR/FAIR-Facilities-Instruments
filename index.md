@@ -39,23 +39,23 @@ While persistent identifiers are already being assigned to facilities and resear
 ## [Project Outputs](#project-outputs)
 
 ***Articles***
-* Mayernik, Matthew, Andrew Johnson, Renaine Julian, Matthew Murray, Claudius Mundoma, Aditya Ranganath, and Greg Stossmeister. 2024 “[Persistent Identifiers for Instruments and Facilities: Current State, Challenges, and Opportunities](https://doi.org/10.7191/jeslib.964).” Journal of eScience Librarianship 13 (3): e964. https://doi.org/10.7191/jeslib.964
+* Mayernik, Matthew, Andrew Johnson, Renaine Julian, Matthew Murray, Claudius Mundoma, Aditya Ranganath, and Greg Stossmeister. 2024-12-03. “[Persistent Identifiers for Instruments and Facilities: Current State, Challenges, and Opportunities](https://doi.org/10.7191/jeslib.964).” Journal of eScience Librarianship 13 (3): e964.
 
 ***Presentations***
 
 * Mayernik, Matthew. "Fair Facilities and Instruments." Presentation, FAIROS RCN Inaugural Cohort Monthly Call, December 16, 2022. 
   * [Slide deck](presentations/dec22_presentation.pdf)
-* Julian, Renaine. "Increasing the Discoverability and Traceability of Research Facilities and Instruments through Persistent Identifiers." Presentation, National Science Foundation Office of Legislative and Public Affairs visit to Florida State University in Tallahassee, Florida, February 24, 2023. 
-* FAIR Facilities and Instruments: Standardization and Adoption of Persistent Identifiers (PIDs) for Research Facilities and Instruments (Poster Presentation at Association for Biomolecular Resource Facilities), May 10th, 2023.
+* Julian, Renaine. "Increasing the Discoverability and Traceability of Research Facilities and Instruments through Persistent Identifiers." Presentation, National Science Foundation Office of Legislative and Public Affairs visit to Florida State University in Tallahassee, Florida, 2023-02-24. 
+* FAIR Facilities and Instruments: Standardization and Adoption of Persistent Identifiers (PIDs) for Research Facilities and Instruments (Poster Presentation at Association for Biomolecular Resource Facilities), 2023-05-10.
   * [Landing Page](https://doi.org/10.33009/FSU_8b648610-91a0-4e1f-a95c-9762124b8912)
   * [Poster](presentations/poster1.pdf)
-* Johnson, Andrew. "Community-based interoperability for research facility and instrument persistent identifiers: Enabling connection throughout the data ecosystem." Lightning talk, RDAP Summit, March 13th, 2024.
-* Ranganath, Aditya. "Enabling Open Science Through Persistent Identifiers for Research Instruments and Facilities." Year of Open Science Culminating Conference, March 21st, 2024.
+* Johnson, Andrew. "Community-based interoperability for research facility and instrument persistent identifiers: Enabling connection throughout the data ecosystem." Lightning talk, RDAP Summit, 2024-03-13.
+* Ranganath, Aditya. "Enabling Open Science Through Persistent Identifiers for Research Instruments and Facilities." Year of Open Science Culminating Conference, 2024-03-21.
   * [Slides](https://osf.io/y9c8r/)
   * [Recording](https://www.youtube.com/watch?v=Jipj4aPWptY)
-* Ranganath, Aditya & Murray, Matthew. "Persistent Unique Identifiers for Instruments and Facilities." Rocky Mountain Advanced Computing Consortium High Performance Computing Symposium, May 23rd, 2024.
+* Ranganath, Aditya & Murray, Matthew. "Persistent Unique Identifiers for Instruments and Facilities." Rocky Mountain Advanced Computing Consortium High Performance Computing Symposium, 2024-05-23.
   * [Slides](https://scholar.colorado.edu/concern/presentations/rr172004s)
-* Murray, Matthew. "Reproducibility through Identifiers: Persistent Identifiers (PIDs) for research facilities and instruments." IASSIST and CARTO, May 29th, 2024.
+* Murray, Matthew. "Reproducibility through Identifiers: Persistent Identifiers (PIDs) for research facilities and instruments." IASSIST and CARTO, 2024-05-29.
   * [Slides](https://zenodo.org/doi/10.5281/zenodo.11390746)
 
 ***Reports***
