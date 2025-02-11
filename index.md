@@ -57,7 +57,7 @@ While persistent identifiers are already being assigned to facilities and resear
   * [Slides](https://scholar.colorado.edu/concern/presentations/rr172004s)
 * Murray, Matthew. "Reproducibility through Identifiers: Persistent Identifiers (PIDs) for research facilities and instruments." IASSIST and CARTO, 2024-05-29.
   * [Slides](https://zenodo.org/doi/10.5281/zenodo.11390746)
-* Julian, Renaine. "FAIR Facilities and Instruments: Enabling transparency, reproducibility, and equity through persistent identifiers." NSF FAIROS Cohort Meeting, 2025-01-13.
+* Julian, Renaine. "FAIR Facilities and Instruments: Enabling transparency, reproducibility, and equity through persistent identifiers." NSF FAIR Open Science PI Workshop, 2025-01-13.
   * [Slides](presentations/RCN-Presentation-2025-01-13.pdf)
 
 ***Reports***
