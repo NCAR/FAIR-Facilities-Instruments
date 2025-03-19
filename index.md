@@ -43,7 +43,7 @@ While persistent identifiers are already being assigned to facilities and resear
 
 ***Presentations***
 
-* Mayernik, Matthew. "Fair Facilities and Instruments." Presentation, FAIROS RCN Inaugural Cohort Monthly Call, December 16, 2022. 
+* Mayernik, Matthew. "Fair Facilities and Instruments." Presentation, FAIROS RCN Inaugural Cohort Monthly Call, 2022-12-16. 
   * [Slide deck](presentations/dec22_presentation.pdf)
 * Julian, Renaine. "Increasing the Discoverability and Traceability of Research Facilities and Instruments through Persistent Identifiers." Presentation, National Science Foundation Office of Legislative and Public Affairs visit to Florida State University in Tallahassee, Florida, 2023-02-24. 
 * FAIR Facilities and Instruments: Standardization and Adoption of Persistent Identifiers (PIDs) for Research Facilities and Instruments (Poster Presentation at Association for Biomolecular Resource Facilities), 2023-05-10.
@@ -59,6 +59,8 @@ While persistent identifiers are already being assigned to facilities and resear
   * [Slides](https://zenodo.org/doi/10.5281/zenodo.11390746)
 * Julian, Renaine. "FAIR Facilities and Instruments: Enabling transparency, reproducibility, and equity through persistent identifiers." NSF FAIR Open Science PI Workshop, 2025-01-13.
   * [Slides](presentations/RCN-Presentation-2025-01-13.pdf)
+* Mundoma, Claudius. "Enabling transparency, reproducibility, and equity through persistent identifiers." ABRF Annual Meeting, 2025-03-23.
+  * [Slides](presentations/Claudius-Mundoma_ABRF-2025.pdf)
 
 ***Reports***
  
