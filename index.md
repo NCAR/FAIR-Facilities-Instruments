@@ -18,7 +18,7 @@ layout: default
 
 ### ***2025 Workshop at NSF National Center for Atmospheric Research***
 
-If you are interested in attending, please let us know. Travel funding is available. 
+If you are interested in attending, [please let us know](https://docs.google.com/forms/d/e/1FAIpQLScDcyOkTOfU_eL60Jjpj75O6sAHyUmk8wDsxksAE3ZfENiwpg/viewform). Travel funding is available. 
 
 ### ***August 2024 Workshop at Florida State University***
 
