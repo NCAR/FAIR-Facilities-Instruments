@@ -18,6 +18,11 @@ layout: default
 
 ### ***2025 Workshop at NSF National Center for Atmospheric Research***
 
+* Dates: September 22-24, 2025
+* Location: Boulder, CO
+
+This NSF-funded workshop will bring together diverse stakeholders to identify and refine recommendations for the research community on optimal approaches for assigning persistent identifiers (PIDs) to facilities and instruments. 
+
 If you are interested in attending, [please let us know](https://docs.google.com/forms/d/e/1FAIpQLScDcyOkTOfU_eL60Jjpj75O6sAHyUmk8wDsxksAE3ZfENiwpg/viewform). Travel funding is available. 
 
 ### ***August 2024 Workshop at Florida State University***
