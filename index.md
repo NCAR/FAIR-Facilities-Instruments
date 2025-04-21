@@ -66,6 +66,8 @@ While persistent identifiers are already being assigned to facilities and resear
   * [Slides](presentations/RCN-Presentation-2025-01-13.pdf)
 * Mundoma, Claudius. "Enabling transparency, reproducibility, and equity through persistent identifiers." ABRF Annual Meeting, 2025-03-23.
   * [Slides](presentations/Claudius-Mundoma_ABRF-2025.pdf)
+* Mayernik, Matthew, Johnson, Andrew, and Mundoma, Claudius. "[024 - FAIR Instruments and Facilities Research Coordination Network](https://open.spotify.com/episode/7Kmlu82qXvX4bZjYvmYdLF)." IDEA: Improving Data Engagement and Advocacy Podcast, 2025-04-11.
+
 
 ***Reports***
  
