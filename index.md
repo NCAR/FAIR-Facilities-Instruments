@@ -119,14 +119,9 @@ David is the FAIR data management specialist at the National High Magnetic Field
 
 Matthew Buys is the Executive Director of DataCite, an international organization that provides Digital Object Identifier (DOI) registration services. DataCite supports over 1,200 organizations from 50 countries, and supports the assignment of PIDs and metadata to a wide variety of research resources, including facilities and instruments.
 
-### Danielle Cooper
-
-Danielle Cooper is senior program associate for Public Knowledge at the Mellon Foundation. She has expertise in developing collaborations between information professionals and diverse teaching and learning communities.
-
 ### Nate Herzog
 
-Nate is the CoreMarketplace project lead at the Vermont Biomedical Research Network (VBRN). The CoreMarketplace (CM) is a searchable listing of active core facilities. Its purpose is to provide this directory of research facilities to the scientific community. It also furthers research by highlighting citable resources within a listing for
-scientific publication. It serves over 225 institutions, and lists over 1000 active research facilities. 
+Nate is the CoreMarketplace project lead at the Vermont Biomedical Research Network (VBRN). The CoreMarketplace (CM) is a searchable listing of active core facilities. Its purpose is to provide this directory of research facilities to the scientific community. It also furthers research by highlighting citable resources within a listing for scientific publication. It serves over 225 institutions, and lists over 1000 active research facilities. 
 
 ### Kevin Knudtson
 
