@@ -7,6 +7,62 @@ layout: default
 
 ## Workshop Agendas
 
+### [September 2025 Workshop at NSF NCAR Mesa Laboratory](#sept2025)
+
+Date: September 22-24, 2025
+
+Location: [NSF NCAR Mesa Laboratory](), Boulder, Colorado
+
+#### Key Links
+* [Speaker slides](presentations#september-2025-workshop)
+
+#### Workshop Agenda
+
+Day 1 (Sept 22), 12:30 PM - 5:00 PM: Introductions and High-Level Insights
+* 12:30 - 1:00 Participants arrive and check-in
+* 1:00 - 1:45 Workshop introduction & Project Progress
+	* FAIR Facilities and Instruments (FAIR F&I) Project Overview
+	* Discussion of key goals for the workshop
+* 1:45 - 3:00 General Recommendations & PID Systems
+	* Overview of general recommendations by FAIR F&I project team
+	* (virtual) Maria Gould, DataCite  
+	* Anita Bandrowski, Research Resource Identification, RRID, initiative
+	* Amanda French, Research Organization Registry (ROR)
+* 3:00 - 3:30 Break
+* 3:30 - 4:30 Breakout groups sessions - Topic: general recommendations
+* 4:30 - 5:00 Breakout group reports and preview tomorrow
+
+Day 2 (Sept 23) 9:00 AM - 5:00 PM: Stakeholder Recommendations & PID Connections
+* 8:30 - 9:00 Participants arrive  
+* 9:00 - 10:45 Stakeholder-Specific Recommendations 
+	* Overview of stakeholder recommendations by FAIR F&I project team
+	* Marc Segers, AIP Publishing
+	* Caterina Strambio-De-Castillia, UMass Chan Medical School
+	* Nate Herzog, Core Marketplace
+	* David Elbert, Johns Hopkins Extreme Materials Institute
+	* Data librarian interest group (speaker tbd)
+* 10:45 - 10:30 break
+* 11:00 - 12:00 Breakout sessions focused on specific stakeholders
+* 12:00 - 1:15 Lunch
+* 1:15 - 1:45 Breakout group reports
+* 1:45 - 3:15 Topical talks - Connections Between PIDs for Related Resources
+	* (virtual) Christine Kirkpatrick / Chris Erdmann, US Research Activity Identifier (RAiD) Pilot
+	* David Hart, NSF National Center for Atmospheric Research
+	* Neil Byers, US DOE Joint Genome Institute
+	* Ted Habermann, Metadata Game Changers
+* 3:15 - 3:30 break
+* 3:30 - 4:30 Breakout group sessions - Topic: Connections between related resources using PIDs
+* 4:30 - 5:00 Breakout group reports and preview final day
+
+Day 3(Sept 24), 9:00 AM - 12:00 PM:  How do we move forward and build upon these discussions with our communities?  What are the big picture outcomes and next steps?
+* 8:30 - 9:00 Participants arrive
+* 9:00 - 9:15 Review and prioritize outputs from day 1 and 2
+* 9:15 - 10:30 Panel: Looking Forward From Different Stakeholder Perspectives
+	* Shawna Sadler, ORCID
+	* Dylan Ruediger, Ithaka S+R
+* 10:30 - 10:45 Break
+* 10:45 - 12:00 Final discussion, review next steps for workshop report, and requested participant actions
+
 ### [August 2024 Workshop at Florida State University](#Aug2024)
 
 Date: August 20-22, 2024

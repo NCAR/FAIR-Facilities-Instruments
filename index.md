@@ -20,6 +20,7 @@ layout: default
 
 * Dates: September 22-24, 2025
 * Location: Boulder, CO
+* [Workshop Agenda](agendas#sept2025)
 
 This NSF-funded workshop will bring together diverse stakeholders to identify and refine recommendations for the research community on optimal approaches for assigning persistent identifiers (PIDs) to facilities and instruments. 
 
