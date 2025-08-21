@@ -24,8 +24,6 @@ layout: default
 
 This NSF-funded workshop will bring together diverse stakeholders to identify and refine recommendations for the research community on optimal approaches for assigning persistent identifiers (PIDs) to facilities and instruments. 
 
-If you are interested in attending, [please let us know](https://docs.google.com/forms/d/e/1FAIpQLScDcyOkTOfU_eL60Jjpj75O6sAHyUmk8wDsxksAE3ZfENiwpg/viewform). Travel funding is available. 
-
 ### ***August 2024 Workshop at Florida State University***
 
 * [Workshop Agenda](agendas#august-2024-workshop-at-florida-state-university)
