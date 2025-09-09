@@ -40,9 +40,9 @@ Day 2 (Sept 23) 9:00 AM - 5:00 PM: Stakeholder Recommendations & PID Connections
 	* Caterina Strambio-De-Castillia, UMass Chan Medical School
 	* Nate Herzog, Core Marketplace
 	* David Elbert, Johns Hopkins Extreme Materials Institute
-	* Data librarian interest group (speaker tbd)
-* 10:45 - 10:30 break
-* 11:00 - 12:00 Breakout sessions focused on specific stakeholders
+	* Moira Downey and Sarah Siddiqui, North Carolina State University and University of Rochester
+* 10:45 - 11:00 break
+* 11:00 - 12:00 Breakout group sessions - Topic: specific stakeholder recommendations
 * 12:00 - 1:15 Lunch
 * 1:15 - 1:45 Breakout group reports
 * 1:45 - 3:15 Topical talks - Connections Between PIDs for Related Resources
@@ -54,11 +54,13 @@ Day 2 (Sept 23) 9:00 AM - 5:00 PM: Stakeholder Recommendations & PID Connections
 * 3:30 - 4:30 Breakout group sessions - Topic: Connections between related resources using PIDs
 * 4:30 - 5:00 Breakout group reports and preview final day
 
-Day 3(Sept 24), 9:00 AM - 12:00 PM:  How do we move forward and build upon these discussions with our communities?  What are the big picture outcomes and next steps?
+Day 3 (Sept 24), 9:00 AM - 12:00 PM:  How do we move forward and build upon these discussions with our communities?  What are the big picture outcomes and next steps?
 * 8:30 - 9:00 Participants arrive
 * 9:00 - 9:15 Review and prioritize outputs from day 1 and 2
 * 9:15 - 10:30 Panel: Looking Forward From Different Stakeholder Perspectives
+	* Mark Parsons, Earth Science Information Partners (ESIP)
 	* Shawna Sadler, ORCID
+	* Shelley Stall, American Geophysical Union
 	* Dylan Ruediger, Ithaka S+R
 * 10:30 - 10:45 Break
 * 10:45 - 12:00 Final discussion, review next steps for workshop report, and requested participant actions
