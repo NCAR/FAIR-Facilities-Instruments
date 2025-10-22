@@ -8,7 +8,21 @@ layout: default
 ## Workshop Presentations and Outputs
 
 ### [September 2025 Workshop](#september-2025-workshop)
-
+* [Workshop #3 Introduction](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Mayernik.pdf) - Matt Mayernik
+* [FAIR Facilities & Instruments in DataCite Services](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Gould.pdf) - Maria Gould
+* [ROR for FAIR Facilities and Instruments](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-French.pdf) - Amanda French
+* [RRIDs for Core Facilities & Instruments](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-.pdf) - Anita Bandrowski, Edyta Vieth
+* [LabConnect: Providing researchers with pathways to tools & facilities for nano/material science](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Segers.pdf) - Marc Segers
+* [Use of PIDs in Systems to Organize Facility Data](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Herzog.pdf) - Nate Herzog
+* [Persistent Hardware Descriptors: persistent identification of instrument instances and hardware configurations](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-StrambioDC.pdf) - Caterina Strambio-De-Castillia
+* [PIDs Toolkit for Librarians and Data Professionals](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Downey.pdf) - Moira Downey, Kassidy Hof-Mahoney, Lauren Phegley, Sarah Siddiqui
+* [PIDs and NSF Computational Resources: Facility, Instrument, or Platform?](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Hart.pdf) - David L Hart
+* [PID Graphs in Practice](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Byers.pdf) - Neil Byers
+* [Connecting PIDs](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Habermann.pdf) - Ted Habermann
+* [US RAiD Pilot](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Kirkpatrick.pdf) - Christine Kirkpatrick, Chris Erdmann
+* [Thoughts on PIDs for Facilities and Instruments](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Parsons.pdf) - Mark Parsons
+* [Shawna’s Summary](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Sadler.pdf) - Shawna Sadler
+* [PIDs for Instruments and Facilities](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Stall.pdf) - Shelley Stall
 
 ### [August 2024 Workshop at Florida State University](#august-2024-workshop-at-florida-state-university)
 * [Workshop #2 Introduction](presentations/2024-FAIR-FSU/2024-FAIR-FSU-Julian.pdf) - Renaine Julian, Andrew Johnson, Matt Mayernik
