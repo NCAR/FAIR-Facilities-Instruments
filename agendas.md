@@ -14,7 +14,7 @@ Date: September 22-24, 2025
 Location: [NSF NCAR Mesa Laboratory](https://ncar.ucar.edu/), Boulder, Colorado
 
 #### Key Links
-* [Speaker slides](presentations#september-2025-workshop)
+* [Speaker slides](presentations#september-2025-workshop-at-nsf-ncar-mesa-laboratory)
 
 #### Workshop Agenda
 
