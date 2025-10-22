@@ -11,7 +11,7 @@ layout: default
 * [Workshop #3 Introduction](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Mayernik.pdf) - Matt Mayernik
 * [FAIR Facilities & Instruments in DataCite Services](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Gould.pdf) - Maria Gould
 * [ROR for FAIR Facilities and Instruments](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-French.pdf) - Amanda French
-* [RRIDs for Core Facilities & Instruments](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-.pdf) - Anita Bandrowski, Edyta Vieth
+* [RRIDs for Core Facilities & Instruments](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Bandrowski.pdf) - Anita Bandrowski, Edyta Vieth
 * [LabConnect: Providing researchers with pathways to tools & facilities for nano/material science](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Segers.pdf) - Marc Segers
 * [Use of PIDs in Systems to Organize Facility Data](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-Herzog.pdf) - Nate Herzog
 * [Persistent Hardware Descriptors: persistent identification of instrument instances and hardware configurations](presentations/2025-FAIR-Boulder/2025-FAIR-Boulder-StrambioDC.pdf) - Caterina Strambio-De-Castillia
