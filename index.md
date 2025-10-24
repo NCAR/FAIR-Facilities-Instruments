@@ -16,13 +16,10 @@ layout: default
 
 * [Code of Conduct](codeofconduct)
 
-### ***2025 Workshop at NSF National Center for Atmospheric Research***
+### ***September 2025 Workshop at NSF National Center for Atmospheric Research***
 
-* Dates: September 22-24, 2025
-* Location: Boulder, CO
 * [Workshop Agenda](agendas#sept2025)
-
-This NSF-funded workshop will bring together diverse stakeholders to identify and refine recommendations for the research community on optimal approaches for assigning persistent identifiers (PIDs) to facilities and instruments. 
+* [Slides from presentations](presentations#september-2025-workshop-at-nsf-ncar-mesa-laboratory)
 
 ### ***August 2024 Workshop at Florida State University***
 
