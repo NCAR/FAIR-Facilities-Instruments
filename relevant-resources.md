@@ -4,6 +4,9 @@ title: Relevant Resources
 description: Provides resources relevant to the topic of PIDs for instruments
 ---
 
+## Navigate to:
+* [Main page](https://ncar.github.io/FAIR-Facilities-Instruments/)
+
 # Relevant Resources
 
 *This page will be periodically updated with links that are relevant to the topic of identifiers for facilities and instruments.*
