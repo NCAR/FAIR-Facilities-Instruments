@@ -40,7 +40,9 @@ While persistent identifiers are already being assigned to facilities and resear
 ## [Project Outputs](#project-outputs)
 
 ***Articles***
-* Mayernik, Matthew, Andrew Johnson, Renaine Julian, Matthew Murray, Claudius Mundoma, Aditya Ranganath, and Greg Stossmeister. 2024-12-03. “[Persistent Identifiers for Instruments and Facilities: Current State, Challenges, and Opportunities](https://doi.org/10.7191/jeslib.964).” Journal of eScience Librarianship 13 (3): e964.
+* Mayernik, Matthew, Andrew Johnson, Renaine Julian, Matthew Murray, Claudius Mundoma, Aditya Ranganath, and Greg Stossmeister. “[Persistent Identifiers for Instruments and Facilities: Current State, Challenges, and Opportunities](https://doi.org/10.7191/jeslib.964).” Journal of eScience Librarianship 13 (3): e964. 2024-12-03. 
+* Mayernik, Matthew, Johnson, Andrew, Julian, Retanine, Mundoma, Claudius, Murray, Matthew, and Ranganath, Aditya. "[Persistent Identification of Facilities and Instruments within Scholarly Infrastructure](https://doi.org/10.1002/pra2.1476)." Proceedings of the Association for Information Science and Technology, 62: 1587-1589. 2025-10.
+
 
 ***Presentations***
 
@@ -63,7 +65,8 @@ While persistent identifiers are already being assigned to facilities and resear
 * Mundoma, Claudius. "Enabling transparency, reproducibility, and equity through persistent identifiers." ABRF Annual Meeting, 2025-03-23.
   * [Slides](presentations/Claudius-Mundoma_ABRF-2025.pdf)
 * Mayernik, Matthew, Johnson, Andrew, and Mundoma, Claudius. "[024 - FAIR Instruments and Facilities Research Coordination Network](https://open.spotify.com/episode/7Kmlu82qXvX4bZjYvmYdLF)." IDEA: Improving Data Engagement and Advocacy Podcast, 2025-04-11.
-
+* Mundonma, Claudius. "Towards the Standardized description and persistent identification of individual instruments at core facilities." NERLSCD, 2025-10-08. 
+  * [Slides](presentations/ClaudiusMundoma+NERLSCD-2025.pdf)
 
 ***Reports***
  
