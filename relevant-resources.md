@@ -22,7 +22,7 @@ description: Provides resources relevant to the topic of PIDs for instruments
 * [Persistent Identifier Guide](https://www.pidwijzer.nl/en/) from the Dutch Digital Heritage Network
   * The PID Guide application guides you  through 25 statements, helps you learn and think about important     PID subjects, and guides your first steps towards selecting a PID system.
   * Van Veenendaal, Remco. (2023). Choosing a Persistent Identifier Type for Your Digital Objects. National Archives of the Netherlands. [http://doi.org/10.7207/twgn23-02 ](http://doi.org/10.7207/twgn23-02). 
-* De Castro, Pablo, Ulrich Herb, Laura Rothfritz, and Joachim Schöpfel. 2023. . Bristol, UK: Knowledge Exchange. [https://doi.org/10.5281/zenodo.7330372](https://doi.org/10.5281/zenodo.7330372)
+* De Castro, Pablo, Ulrich Herb, Laura Rothfritz, and Joachim Schöpfel. 2023. Bristol, UK: Knowledge Exchange. [https://doi.org/10.5281/zenodo.7330372](https://doi.org/10.5281/zenodo.7330372)
 * Bandrowski, Anita & Amanda French. 2024. Understanding RRID and ROR for Facilities, November 26, 2024. [https://doi.org/10.71938/r7ar-eq11](https://doi.org/10.71938/r7ar-eq11)
 
   
