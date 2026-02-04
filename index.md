@@ -39,6 +39,9 @@ While persistent identifiers are already being assigned to facilities and resear
 
 ## [Project Outputs](#project-outputs)
 
+***Recommendations***
+* [Recommendations Toward a Framework for Adoption and Use of Persistent Identifiers for Research Facilities, Platforms, and Instruments](https://doi.org/10.5281/zenodo.18436644), February 2026.
+
 ***Articles***
 * Mayernik, Matthew, Andrew Johnson, Renaine Julian, Matthew Murray, Claudius Mundoma, Aditya Ranganath, and Greg Stossmeister. “[Persistent Identifiers for Instruments and Facilities: Current State, Challenges, and Opportunities](https://doi.org/10.7191/jeslib.964).” Journal of eScience Librarianship 13 (3): e964. 2024-12-03. 
 * Mayernik, Matthew, Johnson, Andrew, Julian, Retanine, Mundoma, Claudius, Murray, Matthew, and Ranganath, Aditya. "[Persistent Identification of Facilities and Instruments within Scholarly Infrastructure](https://doi.org/10.1002/pra2.1476)." Proceedings of the Association for Information Science and Technology, 62: 1587-1589. 2025-10.
@@ -73,6 +76,9 @@ While persistent identifiers are already being assigned to facilities and resear
 * [FAIR Facilities and Instruments Workshop #1 Report: Exploring Persistent Identifier Needs, Barriers and Incentives](http://dx.doi.org/10.5065/zgsx-2d06), February, 2024.
 
 * [FAIR Facilities and Instruments Workshop #2 Report: Recent Progress, Remaining Challenges, and Emerging PID Strategies](https://doi.org/10.5065/jea7-yf24), November, 2024.
+
+* [FAIR Facilities and Instruments Workshop #3 Report: Synthesizing Community Input Toward Recommendations](https://doi.org/10.25810/qyd9-2t28), February, 2026.
+
 
 ## [Project Investigators](#project-investigators)
 
