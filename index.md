@@ -3,33 +3,13 @@ layout: default
 ---
 
 ## Navigate to:
-* [Workshop Information and Outputs](#workshop-information-and-outputs)
 * [Project Description](#project-description)
 * [Project Outputs](#project-outputs)
+* [Workshop Information and Outputs](#workshop-information-and-outputs)
 * [Project Investigators](#project-investigators)
 * [Advisory Committee](#advisory-committee)
 * [Project Award Information](#project-award-information)
 * [Relevant Resources](./relevant-resources.html) 
-
-
-## [Workshop Information and Outputs](#workshop-information-and-outputs)
-
-* [Code of Conduct](codeofconduct)
-
-### ***September 2025 Workshop at NSF National Center for Atmospheric Research***
-
-* [Workshop Agenda](agendas#sept2025)
-* [Slides from presentations](presentations#september-2025-workshop-at-nsf-ncar-mesa-laboratory)
-
-### ***August 2024 Workshop at Florida State University***
-
-* [Workshop Agenda](agendas#august-2024-workshop-at-florida-state-university)
-* [Slides from presentations](presentations#august-2024-workshop-at-florida-state-university)
-
-### ***September 2023 Workshop at University of Colorado Boulder***
-
-* [Workshop Agenda](agendas#september-2023-workshop-at-university-of-colorado-boulder)
-* [Slides from presentations](presentations#september-2023-workshop-at-university-of-colorado-boulder)
 
 ## [Project Description](#project-description)
 
@@ -79,6 +59,25 @@ While persistent identifiers are already being assigned to facilities and resear
 
 * [FAIR Facilities and Instruments Workshop #3 Report: Synthesizing Community Input Toward Recommendations](https://doi.org/10.25810/qyd9-2t28), February, 2026.
 
+
+## [Workshop Information and Outputs](#workshop-information-and-outputs)
+
+* [Code of Conduct](codeofconduct)
+
+### ***September 2025 Workshop at NSF National Center for Atmospheric Research***
+
+* [Workshop Agenda](agendas#sept2025)
+* [Slides from presentations](presentations#september-2025-workshop-at-nsf-ncar-mesa-laboratory)
+
+### ***August 2024 Workshop at Florida State University***
+
+* [Workshop Agenda](agendas#august-2024-workshop-at-florida-state-university)
+* [Slides from presentations](presentations#august-2024-workshop-at-florida-state-university)
+
+### ***September 2023 Workshop at University of Colorado Boulder***
+
+* [Workshop Agenda](agendas#september-2023-workshop-at-university-of-colorado-boulder)
+* [Slides from presentations](presentations#september-2023-workshop-at-university-of-colorado-boulder)
 
 ## [Project Investigators](#project-investigators)
 
