@@ -35,7 +35,7 @@ While persistent identifiers are already being assigned to facilities and resear
 * FAIR Facilities and Instruments: Standardization and Adoption of Persistent Identifiers (PIDs) for Research Facilities and Instruments (Poster Presentation at Association for Biomolecular Resource Facilities), 2023-05-10.
   * [Landing Page](https://doi.org/10.33009/FSU_8b648610-91a0-4e1f-a95c-9762124b8912)
   * [Poster](presentations/poster1.pdf)
-* Johnson, Andrew. "Community-based interoperability for research facility and instrument persistent identifiers: Enabling connection throughout the data ecosystem." Lightning talk, RDAP Summit, 2024-03-13.
+* Johnson, Andrew. "Community-based interoperability for research facility and instrument persistent identifiers: Enabling connection throughout the data ecosystem." Lightning talk, Research Data Access and Preservation Summit, 2024-03-13.
 * Ranganath, Aditya. "Enabling Open Science Through Persistent Identifiers for Research Instruments and Facilities." Year of Open Science Culminating Conference, 2024-03-21.
   * [Slides](https://osf.io/y9c8r/)
   * [Recording](https://www.youtube.com/watch?v=Jipj4aPWptY)
@@ -50,6 +50,7 @@ While persistent identifiers are already being assigned to facilities and resear
 * Mayernik, Matthew, Johnson, Andrew, and Mundoma, Claudius. "[024 - FAIR Instruments and Facilities Research Coordination Network](https://open.spotify.com/episode/7Kmlu82qXvX4bZjYvmYdLF)." IDEA: Improving Data Engagement and Advocacy Podcast, 2025-04-11.
 * Mundonma, Claudius. "Towards the Standardized description and persistent identification of individual instruments at core facilities." NERLSCD, 2025-10-08. 
   * [Slides](presentations/ClaudiusMundoma+NERLSCD-2025.pdf)
+* Johnson, Andrew, and Julian, Renaine. "FAIR Facilities and Instruments: Recommendations for Adoption of Research Instrument, Platform, and Facility Persistent Identifiers." Lightning talk, Research Data Access and Preservation Summit, 2026-04-15.
 
 ***Reports***
  
