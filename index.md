@@ -20,7 +20,7 @@ While persistent identifiers are already being assigned to facilities and resear
 ## [Project Outputs](#project-outputs)
 
 ***Recommendations***
-* [Recommendations Toward a Framework for Adoption and Use of Persistent Identifiers for Research Facilities, Platforms, and Instruments](https://doi.org/10.5281/zenodo.18436644), February 2026.
+* [Recommendations Toward a Framework for Adoption and Use of Persistent Identifiers for Research Facilities, Platforms, and Instruments](https://doi.org/10.5281/zenodo.18436644), 2026-02-02.
 
 ***Articles***
 * Mayernik, Matthew, Andrew Johnson, Renaine Julian, Matthew Murray, Claudius Mundoma, Aditya Ranganath, and Greg Stossmeister. “[Persistent Identifiers for Instruments and Facilities: Current State, Challenges, and Opportunities](https://doi.org/10.7191/jeslib.964).” Journal of eScience Librarianship 13 (3): e964. 2024-12-03. 
