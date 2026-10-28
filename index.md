@@ -157,8 +157,3 @@ Zach Chandler is Director of Open Scholarship Strategy at Stanford University. H
 [NSF Award 2226396](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226396&HistoricalAwards=false)\
 [NSF Award 2226397](https://nsf.gov/awardsearch/showAward?AWD_ID=2226397&HistoricalAwards=false)\
 [NSF Award 2226398](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226398&HistoricalAwards=false) 
-
-
-*Interested in learning more about our work or getting involved? Please [get in touch.](https://docs.google.com/forms/d/e/1FAIpQLSdSMaDIaIqd5O3CZvNfuQ6NmGUyRg_SiDE34iam0-l1t34KUg/viewform?usp=share_link)*
-
-
